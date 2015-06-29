@@ -1,2 +1,2 @@
 # gradle
-Gradle 2.5 Nightly Homebrew Formula
+Gradle 2.6 Nightly Homebrew Formula
